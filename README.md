@@ -2,19 +2,20 @@
 
 Letraset is a jQuery plugin which enhances - and makes available to older browsers - placeholder text support in HTML input and textareas.
 
-**DEMO AND DOCS:** http://isitcool.co.uk/letraset
+**DEMO AND DOCS**
+http://isitcool.co.uk/letraset
 
 ## Code Example
 
 HTML:
-<input class="letraset" placeholder="Enter your name…">
+&lt;input class="letraset" placeholder="Enter your name…"&gt;
 
 JS:
 $('.letraset').letraset();
 
-## Motivation
+## Why?
 
-Letraset attempts to beatify existing placeholder text and add support for it for all browsers.
+Letraset attempts to beautify existing placeholder text and add support for it for all browsers.
 
 ## Installation
 
